@@ -7,5 +7,6 @@ System.out.printf("hello world");
 //hello
 //qwtrtrwrt
 
+System.out.print(new Boolean(false));
 }
 }
