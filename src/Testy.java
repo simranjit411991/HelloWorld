@@ -1,4 +1,4 @@
 
 public class Testy {
-kjasdfllasdjfljladfjlaldfjlasjdfljlasdfljasldfkljdfljldf
+private static int x=0;
 }
