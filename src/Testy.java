@@ -8,5 +8,7 @@ System.out.printf("hello world");
 //qwtrtrwrt
 
 System.out.print(new Boolean(false));
+
+System.out.print(new Boolean(false));
 }
 }
